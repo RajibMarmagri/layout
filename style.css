@@ -1,0 +1,82 @@
+.header{
+	background-color: gray;
+	height: 70px;
+}
+
+.logo{
+	width: 140px;
+	position: absolute;
+	top: 4%;
+	left: 6%;
+
+}
+
+.container{
+	overflow: hidden;
+
+}
+.service img{
+	background-color: crimson;
+	width: 45%;
+	float: left;
+
+}
+.about{
+	background-color: teal;
+	width: 55%;
+	min-height: 400px;
+	float: right;
+
+}
+.about h1{
+	font-family: sans-serif;
+	position: absolute;
+	color: white;
+	right: 500px;
+
+}
+
+.about p{
+	font-family: sans-serif;
+	position: absolute;
+	color: white;
+	right: 30px;
+	font-size: 16px;
+}
+
+.section{
+	overflow: hidden;
+
+}
+.mission{
+	background-color: gray;
+	width: 60%;
+	min-height: 355px;
+	float: left;
+
+}
+.mission h1{
+	font-family: sans-serif;
+	position: absolute;
+	color: white;
+	left: 100px;
+}
+
+.mission p{
+	font-family: sans-serif;
+	position: absolute;
+	color: white;
+	left: 30px;
+	font-size: 16px;
+}
+
+.section img{
+	background-color: crimson;
+	width: 40%;
+	float: right;	
+}
+
+.footer{
+	background-color: lime;
+	min-height: 70px;
+}
